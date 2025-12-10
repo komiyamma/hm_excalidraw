@@ -1,4 +1,6 @@
-﻿jsmode @"jscript\HmExcalidraw";
+﻿hidemaruversion "9.22.99";
+
+jsmode "JScript\\" + currentmacrofilename;
 
 js {
     var argOption = {
