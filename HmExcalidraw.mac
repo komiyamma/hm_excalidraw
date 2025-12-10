@@ -1,0 +1,14 @@
+﻿jsmode @"jscript\HmExcalidraw";
+
+js {
+    var argOption = {
+        target: "_each", 
+        url: "https://excalidraw.com/",
+        focus: 1,
+        place: "right",
+        size: 900,
+        show: 1
+    };
+    
+    browserpanecommand(argOption);
+}
