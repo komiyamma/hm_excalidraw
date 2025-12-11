@@ -9,7 +9,8 @@ js {
         focus: 1,
         place: "right",
         size: 900,
-        show: 1
+        show: 1,
+        initialize: "async"
     };
     
     browserpanecommand(argOption);
