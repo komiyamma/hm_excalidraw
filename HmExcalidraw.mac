@@ -1,4 +1,6 @@
-﻿hidemaruversion "9.22.99";
+﻿// HmExcalidraw v1.0.0
+
+hidemaruversion "9.22.99";
 
 jsmode "JScript\\" + currentmacrofilename;
 
